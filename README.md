@@ -5,6 +5,12 @@
 [Install](https://docs.astral.sh/uv/getting-started/installation/) UV Python package manager.
 
 
+Install dependencies:
+
+```sh
+uv sync
+```
+
 ## Usage
 
 ```sh
