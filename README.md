@@ -13,6 +13,10 @@ uv sync
 
 ## Usage
 
+Test the setup:
+
 ```sh
 uv run python main.py
 ```
+
+Check the Jupyter notebooks.
